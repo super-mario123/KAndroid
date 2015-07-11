@@ -18,7 +18,6 @@ public class MainActivity extends AppCompatActivity {
     private EditText userNameEdit;
     private EditText passwordEdit;
 
-    
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
